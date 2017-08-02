@@ -15,3 +15,11 @@
 **Thoughts:** Took probably around 6 hours to complete. I'm still finding things confusing, like the best way to construct a navigation with Bootstrap, when to use Bootstrap classes or custom classes, when to use padding or margins, when to use containers and whether to embed, etc. Trying to let go of the perfectionist attitude with my new motto "better done than good". Last time I tried to go through this curriculum I failed because I tried to make things perfect.. Won't be making that mistake again! 
 
 **Link to work:** [Portfolio](https://codepen.io/minjoyful/pen/EvKaZw)
+
+### Day 3: August 2, 2017
+
+**Today's Progress**: Started and finished the Basic Javascript section on FCC. Finished a basic HTML/CSS site for a uni assignment. 
+
+**Thoughts:** Things started to click really easily when learning JavaScript because it's somewhat similar to Java. When things start to click, I feel more motivated and inspired to keep going. HTML & CSS are starting to click too the more I do it. Hopefully I can keep this up.
+
+**Link to work:** [Basic HTML/CSS site](https://github.com/carlyminjoy/frontend_projects)
