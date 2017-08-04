@@ -23,3 +23,19 @@
 **Thoughts:** Things started to click really easily when learning JavaScript because it's somewhat similar to Java. When things start to click, I feel more motivated and inspired to keep going. HTML & CSS are starting to click too the more I do it. Hopefully I can keep this up.
 
 **Link to work:** [Basic HTML/CSS site](https://github.com/carlyminjoy/frontend_projects)
+
+### Day 4: August 3, 2017
+
+**Today's Progress**: Finished OOP JavaScript on FCC.
+
+**Thoughts:** Things are starting to feel a little more challenging with JavaScript. The language is a little difficult to get my head around considering I'm so used to Ruby.
+
+**Link to work:** 
+
+### Day 5: August 4, 2017
+
+**Today's Progress**: Started Basic Algorithmic Scripting challenges on FCC
+
+**Thoughts:** The first few felt like a piece of cake until I started having to think more creatively when JavaScript didn't have the Ruby functions I'm used to. About the third or fourth challenge in, I felt myself slowing down and having to research documentation pretty thoroughly, which is great because it means I'm learning new things!
+
+**Link to work:** 
