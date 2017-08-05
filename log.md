@@ -30,12 +30,14 @@
 
 **Thoughts:** Things are starting to feel a little more challenging with JavaScript. The language is a little difficult to get my head around considering I'm so used to Ruby.
 
-**Link to work:** 
-
 ### Day 5: August 4, 2017
 
 **Today's Progress**: Started Basic Algorithmic Scripting challenges on FCC
 
 **Thoughts:** The first few felt like a piece of cake until I started having to think more creatively when JavaScript didn't have the Ruby functions I'm used to. About the third or fourth challenge in, I felt myself slowing down and having to research documentation pretty thoroughly, which is great because it means I'm learning new things!
 
-**Link to work:** 
+### Day 6: August 5, 2017
+
+**Today's Progress**: Finished Basic Algorithmic Scripting challenges on FCC
+
+**Thoughts:** Some pretty challenging concepts here - RegExp is still pretty over my head, no matter what language I'm working on. Feels like I'm creating lambda functions in some of these algorithms without even I'm realising that I'm doing it.. I honestly just don't know. Proud that I got through this section but really would like to understand what just happened and understand the language a little better! Time to start working through Udemy courses?
