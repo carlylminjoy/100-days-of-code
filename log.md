@@ -41,3 +41,27 @@
 **Today's Progress**: Finished Basic Algorithmic Scripting challenges on FCC
 
 **Thoughts:** Some pretty challenging concepts here - RegExp is still pretty over my head, no matter what language I'm working on. Feels like I'm creating lambda functions in some of these algorithms without even I'm realising that I'm doing it.. I honestly just don't know. Proud that I got through this section but really would like to understand what just happened and understand the language a little better! Time to start working through Udemy courses?
+
+### Day 7: August 6, 2017
+
+**Today's Progress**: Started and finished JSON APIs section on FCC
+
+**Thoughts:** Cool - doesn't look as difficult as I thought it was going to be. I never even knew what JSON or APIs meant until today. The more I learn, the less overwhelming things seem to be. 
+
+### Day 8: August 7, 2017
+
+**Today's Progress**: Started intermediate js algorithms
+
+**Thoughts:** Completed one fairly easily, but got super stuck on the second one. Not totally familiar with js method calls yet but I think the logic is something I can figure out with a little more time. Just had to do some quick work today during a break at work.
+
+### Day 9: August 8, 2017
+
+**Today's Progress**: Started Random Quote Generator Project on FCC
+
+**Thoughts:** Thought I'd try to learn some flexbox for the basic layout of this one. Was pretty easy to refresh, though I'm still a bit dodgy on a lot of the properties. Trying to figure out how the hell to create an API request for JSON was impossible, spent hours with very little results. Where is the documentation to help for absolute beginners?
+
+### Day 10: August 9, 2017
+
+**Today's Progress**: Continued working on Random Quote Generator
+
+**Thoughts:** Took freaking ages and a lot of brain power and research to figure out the JSON API request via jQuery. First of all, realised I'm a total idiot and none of my tests were working because I forgot to add jQuery to CodePen. Idiot! From there, I could start testing code and through trial and error and looking at a bunch of jQuery code, I think I created a pretty clean and concise way of achieving what I wanted. 
