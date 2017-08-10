@@ -60,8 +60,12 @@
 
 **Thoughts:** Thought I'd try to learn some flexbox for the basic layout of this one. Was pretty easy to refresh, though I'm still a bit dodgy on a lot of the properties. Trying to figure out how the hell to create an API request for JSON was impossible, spent hours with very little results. Where is the documentation to help for absolute beginners?
 
+**Link to work:** [Random Quote Generator](https://codepen.io/minjoyful/full/oeWWKo/)
+
 ### Day 10: August 9, 2017
 
 **Today's Progress**: Continued working on Random Quote Generator
 
 **Thoughts:** Took freaking ages and a lot of brain power and research to figure out the JSON API request via jQuery. First of all, realised I'm a total idiot and none of my tests were working because I forgot to add jQuery to CodePen. Idiot! From there, I could start testing code and through trial and error and looking at a bunch of jQuery code, I think I created a pretty clean and concise way of achieving what I wanted. 
+
+**Link to work:** [Random Quote Generator](https://codepen.io/minjoyful/full/oeWWKo/)
