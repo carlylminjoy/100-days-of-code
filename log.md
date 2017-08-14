@@ -69,3 +69,43 @@
 **Thoughts:** Took freaking ages and a lot of brain power and research to figure out the JSON API request via jQuery. First of all, realised I'm a total idiot and none of my tests were working because I forgot to add jQuery to CodePen. Idiot! From there, I could start testing code and through trial and error and looking at a bunch of jQuery code, I think I created a pretty clean and concise way of achieving what I wanted. 
 
 **Link to work:** [Random Quote Generator](https://codepen.io/minjoyful/full/oeWWKo/)
+
+### Day 11: August 10, 2017
+
+**Today's Progress**: Continued working on Random Quote Generator
+
+**Thoughts:** Added functionality to tweet quotes. Had some trouble with url string interpolation. Pretty happy with the result. 
+
+**Link to work:** [Random Quote Generator](https://codepen.io/minjoyful/full/oeWWKo/)
+
+### Day 12: August 11, 2017
+
+**Today's Progress**: Started weather app
+
+**Thoughts:** Wrote some js for retrieving coordinates. Had some trouble with CodePen constantly refreshing.. Had to migrate project to local development. 
+
+**Link to work:** [Weather App](https://github.com/carlyminjoy/frontend_projects/tree/master/weather_app)
+
+### Day 13: August 12, 2017
+
+**Today's Progress**: Continued working on weather app
+
+**Thoughts:** 
+
+**Link to work:** [Weather App](https://github.com/carlyminjoy/frontend_projects/tree/master/weather_app)
+
+### Day 14: August 13, 2017
+
+**Today's Progress**: Continued working on weather app
+
+**Thoughts:** 
+
+**Link to work:** [Weather App](https://github.com/carlyminjoy/frontend_projects/tree/master/weather_app)
+
+### Day 15: August 14, 2017
+
+**Today's Progress**: Continued working on weather app
+
+**Thoughts:** 
+
+**Link to work:** [Weather App](https://github.com/carlyminjoy/frontend_projects/tree/master/weather_app)
