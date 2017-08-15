@@ -112,8 +112,8 @@
 
 ### Day 16: August 15, 2017
 
-**Today's Progress**: Finished weather app
+**Today's Progress**: Finished weather app. Intermediate javascript algorithms.
 
-**Thoughts:** Changed url to secure server & it seemed to fix the github viewer issues so my site can be viewed by others now. 
+**Thoughts:** Changed url to secure server & it seemed to fix the github viewer issues so my app can be rendered online. Finished one intermediate javascript algorithm working with Array.prototype.indexOf() method.
 
 **Link to work:** [Weather App](https://github.com/carlyminjoy/frontend_projects/tree/master/weather_app)
