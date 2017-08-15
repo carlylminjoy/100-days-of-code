@@ -90,7 +90,7 @@
 
 **Today's Progress**: Continued working on weather app
 
-**Thoughts:** 
+**Thoughts:** Still trying to figure out how to best retrieve data from the API. Still not totally confident with js and trying to get my head around correct methods and syntax. A lot of trial and error to achieve not much, but at least I'm beginning to get the hang of the language. Successfully retrieved the json at least - just need to find a way to design the js code cleanly.
 
 **Link to work:** [Weather App](https://github.com/carlyminjoy/frontend_projects/tree/master/weather_app)
 
@@ -98,7 +98,7 @@
 
 **Today's Progress**: Continued working on weather app
 
-**Thoughts:** 
+**Thoughts:** Worked on style and layout mainly today. Experimenting with Bootstrap alignment properties and responsivity.
 
 **Link to work:** [Weather App](https://github.com/carlyminjoy/frontend_projects/tree/master/weather_app)
 
@@ -106,6 +106,14 @@
 
 **Today's Progress**: Continued working on weather app
 
-**Thoughts:** 
+**Thoughts:** Added temperature functionality and toggle button for fahrenheit and celsius. Spent a lot of time on these functions and making code as clean as possible. Also added functionality to change background image to represent current weather conditions. Super happy with the design of my js code; I think it's really clean and easy to follow. I'm proud of this project.
+
+**Link to work:** [Weather App](https://github.com/carlyminjoy/frontend_projects/tree/master/weather_app)
+
+### Day 16: August 15, 2017
+
+**Today's Progress**: Finished weather app
+
+**Thoughts:** Changed url to secure server & it seemed to fix the github viewer issues so my site can be viewed by others now. 
 
 **Link to work:** [Weather App](https://github.com/carlyminjoy/frontend_projects/tree/master/weather_app)
