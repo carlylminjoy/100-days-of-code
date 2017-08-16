@@ -40,7 +40,7 @@
 
 **Today's Progress**: Finished Basic Algorithmic Scripting challenges on FCC
 
-**Thoughts:** Some pretty challenging concepts here - RegExp is still pretty over my head, no matter what language I'm working on. Feels like I'm creating lambda functions in some of these algorithms without even I'm realising that I'm doing it.. I honestly just don't know. Proud that I got through this section but really would like to understand what just happened and understand the language a little better! Time to start working through Udemy courses?
+**Thoughts:** Some pretty challenging concepts here - RegExp is still pretty over my head, no matter what language I'm working on. Proud that I got through this section but really would like to understand what just happened and understand the language a little better. I think I need to concurrently work on some more in-depth online courses, like udemy.
 
 ### Day 7: August 6, 2017
 
@@ -66,7 +66,7 @@
 
 **Today's Progress**: Continued working on Random Quote Generator
 
-**Thoughts:** Took freaking ages and a lot of brain power and research to figure out the JSON API request via jQuery. First of all, realised I'm a total idiot and none of my tests were working because I forgot to add jQuery to CodePen. Idiot! From there, I could start testing code and through trial and error and looking at a bunch of jQuery code, I think I created a pretty clean and concise way of achieving what I wanted. 
+**Thoughts:** Took ages and a lot of brain power and research to figure out the JSON API request via jQuery. First of all, realised I'm a total idiot and none of my tests were working because I forgot to add jQuery to CodePen. From there, I could start testing code and through trial and error and looking at a bunch of jQuery code, I think I created a pretty clean and concise way of achieving what I wanted. 
 
 **Link to work:** [Random Quote Generator](https://codepen.io/minjoyful/full/oeWWKo/)
 
@@ -106,7 +106,7 @@
 
 **Today's Progress**: Continued working on weather app
 
-**Thoughts:** Added temperature functionality and toggle button for fahrenheit and celsius. Spent a lot of time on these functions and making code as clean as possible. Also added functionality to change background image to represent current weather conditions. Super happy with the design of my js code; I think it's really clean and easy to follow. I'm proud of this project.
+**Thoughts:** Added temperature functionality and toggle button for fahrenheit and celsius. Spent a lot of time on these functions and making code as clean as possible. Also added functionality to change background image to represent current weather conditions. Super happy with the design of my js code; I think it's really clean and easy to follow. I'm proud of this project. Feeling more confident with jQuery & retrieving data from APIs.
 
 **Link to work:** [Weather App](https://github.com/carlyminjoy/frontend_projects/tree/master/weather_app)
 
@@ -114,6 +114,14 @@
 
 **Today's Progress**: Finished weather app. Intermediate javascript algorithms.
 
-**Thoughts:** Changed url to secure server & it seemed to fix the github viewer issues so my app can be rendered online. Finished one intermediate javascript algorithm working with Array.prototype.indexOf() method.
+**Thoughts:** Changed url to secure server & it seemed to fix the github viewer issues so my app can be rendered online through githubviewer. Finished one intermediate javascript algorithm working with Array.prototype.indexOf() method.
 
 **Link to work:** [Weather App](https://github.com/carlyminjoy/frontend_projects/tree/master/weather_app)
+
+### Day 17: August 16, 2017
+
+**Today's Progress**: Started Wikipedia Viewer project. 
+
+**Thoughts:** Starting to enjoy the workflow of committing changes and pushing to git regularly. Watched a Sass course with SitePoint; found it really interesting and decided to use Sass with this project. Played around with creating color palettes with Sass. Got a pretty good layout happening for this project, will start working on the functionality tomorrow. Completed a few javascript exercises with Colt Steele's web developer bootcamp through udemy. Also, I'm up to day 6 of the Advanced Beginner Challenge with javascript and feeling like I'm understanding different javascript frameworks a lot better. 
+
+**Link to work:** [Wikipedia Viewer](https://github.com/carlyminjoy/frontend_projects/tree/master/wikipedia_viewer)
