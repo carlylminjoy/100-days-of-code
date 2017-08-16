@@ -120,8 +120,8 @@
 
 ### Day 17: August 16, 2017
 
-**Today's Progress**: Started Wikipedia Viewer project. 
+**Today's Progress**: Started Wikipedia Viewer project. Learned basic Sass. Worked through some js exercises on udemy. 
 
-**Thoughts:** Starting to enjoy the workflow of committing changes and pushing to git regularly. Watched a Sass course with SitePoint; found it really interesting and decided to use Sass with this project. Played around with creating color palettes with Sass. Got a pretty good layout happening for this project, will start working on the functionality tomorrow. Completed a few javascript exercises with Colt Steele's web developer bootcamp through udemy. Also, I'm up to day 6 of the Advanced Beginner Challenge with javascript and feeling like I'm understanding different javascript frameworks a lot better. 
+**Thoughts:** Starting to enjoy the workflow of committing changes and pushing to git regularly. Found Sass really interesting and exciting and decided to implement it in this project. Played around with creating color palettes and got a pretty good layout happening; will start working on the functionality tomorrow. Also, I'm up to day 6 of the JavaScript Advanced Beginner Challenge and feeling like I'm understanding different javascript frameworks a lot better. All the technologies that used to intimidate me are starting to feel a little less overwhelming. 
 
 **Link to work:** [Wikipedia Viewer](https://github.com/carlyminjoy/frontend_projects/tree/master/wikipedia_viewer)
