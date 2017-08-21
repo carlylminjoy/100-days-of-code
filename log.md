@@ -141,3 +141,17 @@
 **Thoughts:** This took me hours to try and get around the js error message requesting a header for the mediawiki API. I tried creating an ajax post request and adding headers to that, and adding a callback call to the http request. Nothing was working, until I stumbled up on adding origin=* to the request, which I still don't entirely understand why it worked. Regardless, with the working link with a search query request from the API I managed to fairly easily figure out the functionality from then on. Spent a lot of time making the site responsive on smaller devices using flexbox. 
 
 **Link to work:** [Wikipedia Viewer](https://carlyminjoy.github.io/front_end_projects/wikipedia_viewer)
+
+### Day 20: August 19, 2017
+
+**Today's Progress**: Intermediate algorithms on freeCodeCamp
+
+**Thoughts:** Got through 8 algorithms. I'm feeling more confident with JavaScript and being able to quickly find & implement methods I need. Still took quite a few hours to get through these problems.
+
+### Day 21: August 21, 2017
+
+**Today's Progress**: More intermediate algorithms on freeCodeCamp. Learned about Sass. Implemented Sass in existing projects.
+
+**Thoughts:** I really love Sass. I want to learn more about it, but I can see how powerful it is already from learning about variables, functions and extensions. Hearing about all these technologies I didn't know about used to freak me out, but after learning more and more, I'm realising they are all just ways to make life easier, and I'm feeling less overwhelmed.
+
+
