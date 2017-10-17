@@ -154,4 +154,293 @@
 
 **Thoughts:** I really love Sass. I want to learn more about it, but I can see how powerful it is already from learning about variables, functions and extensions. Hearing about all these technologies I didn't know about used to freak me out, but after learning more and more, I'm realising they are all just ways to make life easier, and I'm feeling less overwhelmed.
 
+### Day 23: August 22, 2017
 
+**Today's Progress**: 3 intermediate javascript algorithms on freeCodeCamp. 
+
+**Thoughts:** I'm finding these super challenging. They are taking a really long time to complete.
+
+### Day 24: August 23, 2017
+
+**Today's Progress**: More intermediate javascript algorithms on freeCodeCamp.
+
+**Thoughts:** I'm almost there. Using regexp has been a new and challenging experience. Some of the logic required for these algorithms feels very new to me. A lot of time spent researching methods.
+
+### Day 25: August 25, 2017
+
+**Today's Progress**: Ruby and javascript algorithms on Code Wars.
+
+**Thoughts:** A very busy day for me. Glad to have still managed to get some coding in.
+
+### Day 26: August 26, 2017
+
+**Today's Progress**: Finished all intermediate algorithms!
+
+**Thoughts:** That was very challenging, but I feel incredibly accomplished considering how overwhelmed I was by the challenges a few days ago.
+
+### Day 27: August 27, 2017
+
+**Today's Progress**: Started Twitch.tv project with freeCodeCamp
+
+**Thoughts:** Mostly worked on design & styling today. Coding the functionality still feels overwheleming at this point.
+
+**Link to work:** [Twitch.tv Project](https://carlyminjoy.github.io/frontend_projects/twitch_stream/)
+
+
+### Day 28: August 28, 2017
+
+**Today's Progress**: Continued Twitch.tv project with freeCodeCamp
+
+**Thoughts:** Added functionality to retrieve streaming status & link to channel. Small wins feel good.
+
+**Link to work:** [Twitch.tv Project](https://carlyminjoy.github.io/frontend_projects/twitch_stream/)
+
+
+### Day 29: August 29, 2017
+
+**Today's Progress**: Continued Twitch.tv project with freeCodeCamp
+
+**Thoughts:** Added filter buttons to view all/live only streams. Building individual functions doesn't feel so overwhelming anymore; designing the overall structure of a project from scratch still does.
+
+**Link to work:** [Twitch.tv Project](https://carlyminjoy.github.io/frontend_projects/twitch_stream/)
+
+### Day 30: August 30, 2017
+
+**Today's Progress**: Finished Twitch.tv project with freeCodeCamp
+
+**Thoughts:** I've finished 6 front-end projects in 30 days. Considering I had basically zero knowledge of javascript before this, I feel freaking fantastic. 
+
+**Link to work:** [Twitch.tv Project](https://carlyminjoy.github.io/frontend_projects/twitch_stream/)
+
+### Day 31: August 31, 2017
+
+**Today's Progress**: Worked on github pages portfolio site
+
+**Thoughts:** Made it responsive. CSS is tedious.
+
+**Link to work:** [Portfolio](https://carlyminjoy.github.io/)
+
+
+### Day 32: September 1, 2017
+
+**Today's Progress**: Worked on github pages portfolio site
+
+**Thoughts:** Still working on having nice white space. It's hard not to get pedantic and spend hours on a small design issue.
+
+**Link to work:** [Portfolio](https://carlyminjoy.github.io/)
+
+
+### Day 33: September 2, 2017
+
+**Today's Progress**: Worked on github pages portfolio site
+
+**Thoughts:** It's hard not to get pedantic and spend hours on a small design issue.
+
+**Link to work:** [Portfolio](https://carlyminjoy.github.io/)
+
+### Day 34: September 3, 2017
+
+**Today's Progress**: Started advanced algorithms on freeCodeCamp
+
+**Thoughts:** Holy crap. Reading the descriptions hurts my brain. 
+
+### Day 35: September 5, 2017
+
+**Today's Progress**: More advanced algorithms on freeCodeCamp. 'Weird javascript' section on udemy course.
+
+**Thoughts:** These algorithms are taking HOURS. Way longer than the intermediate. I am doing SO much research into design patterns and methods. I guess this is probably what real developers do.
+
+### Day 36: September 6, 2017
+
+**Today's Progress**: More advanced algorithms on freeCodeCamp. 
+
+**Thoughts:** I feel like a sloth working through these problems. 
+
+### Day 37: September 8, 2017
+
+**Today's Progress**: Basic React tutorial. Started javascript tetris project
+
+**Thoughts:** Cool - so that's what a javascript framework does.. No I still have no idea what's happening. Tetris? Hectic overwhelmed. 
+
+### Day 38: September 9, 2017
+
+**Today's Progress**: Started javascript calculator project
+
+**Thoughts:** This is something I feel a little more comfortable with. Mostly styling and layout. CSS skills are starting to feel a little more comfortable, this calculator actually looks pretty good and I barely wrote any code. Sass & bootstrap are quite helpful.
+
+**Link to work:** [JS Calculator](https://carlyminjoy.github.io/frontend_projects/calculator)
+
+### Day 39: September 11, 2017
+
+**Today's Progress**: Continued javascript calculator project
+
+**Thoughts:** Javascript float calculations - why are they are so inaccurate?? Why are there so many goddamn decimal places?! Got some good suggestions about how to fix this, like with money.js or converting everything to whole numbers then dividing by 100. Still not quite what I need for the calculator, though.
+
+**Link to work:** [JS Calculator](https://carlyminjoy.github.io/frontend_projects/calculator)
+
+### Day 40: September 12, 2017
+
+**Today's Progress**: Continued tetris project
+
+**Thoughts:** There are 40 bajillion lines of code. How to even start understanding this project? Found the simplest functions I could find and worked through how to understand them using the console. 
+
+### Day 41: September 13, 2017
+
+**Today's Progress**: Continued tetris project
+
+**Thoughts:** Okay - things are starting to click. Now that I have some functions working, the display is beginning to work and I have a bit more reassurance that I'm on the right track.
+
+### Day 42: September 14, 2017
+
+**Today's Progress**: Finished tetris project
+
+**Thoughts:** That took hours and hours and hours and hours but here we are! Beginning to have the grand realisation that no matter how overwhelming or difficult a project might seem, I'll probably find my way to hack through it. 
+
+### Day 43: September 16, 2017
+
+**Today's Progress**: Worked on portfolio
+
+**Thoughts:** More tedious responsive design. Readjusting layout. Don't like my profile pic. Etc. 
+
+**Link to work:** [Portfolio](https://carlyminjoy.github.io/)
+
+### Day 44: September 17, 2017
+
+**Today's Progress**: Worked on portfolio
+
+**Thoughts:** Making my contact form work. Researched jQuery & PHP approaches but for now I think I'm going to go with formspree.
+
+**Link to work:** [Portfolio](https://carlyminjoy.github.io/)
+
+### Day 45: September 18, 2017
+
+**Today's Progress**: Worked on portfolio
+
+**Thoughts:** Implemented alertify for contact form submission. Form validation works!! Form submission works!! Wahooo.
+
+**Link to work:** [Portfolio](https://carlyminjoy.github.io/)
+
+### Day 46: September 19, 2017
+
+**Today's Progress**: Javascript algorithms on codewars
+
+**Thoughts:** I'm getting more comfortable with organising code for projects, but I'm realising I'm still not crash hot on all the common javascript methods. Still having to look them up regularly.
+
+
+### Day 47: September 20, 2017
+
+**Today's Progress**: Continued javascript calculator project
+
+**Thoughts:** It's my birthday, but I still managed to get a fair amount of coding in. I'm still uncertain as to whether having 40 billion functions is normal. This is basically done though - except for All Clear functions.
+
+**Link to work:** [JS Calculator](https://carlyminjoy.github.io/frontend_projects/calculator)
+
+### Day 48: September 21, 2017
+
+**Today's Progress**: PHP 
+
+**Thoughts:** Watched a few tutorials on PHP. Less scary than I thought. 
+
+### Day 49: September 22, 2017
+
+**Today's Progress**: More PHP 
+
+**Thoughts:** Worked on a simple PHP/AJAX project.
+
+### Day 50: September 24, 2017
+
+**Today's Progress**: Javascript Pomodoro Clock
+
+**Thoughts:** Really cranked through this project. Felt a lot easier than the calculator project. 
+
+**Link to work:** [JS Pomodoro Clock](https://carlyminjoy.github.io/frontend_projects/pomodoro)
+
+### Day 51: September 25, 2017
+
+**Today's Progress**: Portfolio
+
+**Thoughts:** Mmmm still not certain on the design. Changed it again. Played around with layout and responsive design styles. Much better now!
+
+**Link to work:** [Portfolio](https://carlyminjoy.github.io/)
+
+### Day 52: September 26, 2017
+
+**Today's Progress**: Portfolio
+
+**Thoughts:** I think I'm getting much better at design the more I do it. I know it doesn't look right but I just didn't know how to fix it. I still have some difficulty really making things look as aesthetically pleasing as I would like, but definitely making some improvements.
+
+**Link to work:** [Portfolio](https://carlyminjoy.github.io/)
+
+### Day 53: September 27, 2017
+
+**Today's Progress**: PHP, Javascript and jQuery
+
+**Thoughts:** Sitting a web programming exam, so had a bit of a theory day. Studied and practiced some PHP for loops. 
+
+### Day 54: September 28, 2017
+
+**Today's Progress**: PHP & AJAX
+
+**Thoughts:** Took a closer look at how PHP interacts with AJAX. Still feels a bit confusing, as I am not particularly familiar with either of these technologies. Don't really want to be sidetracking with this - just simply have to for this uni exam.
+
+### 2 WEEK BREAK: ROUND 2 BEGINS
+
+### Day 1: October 8, 2017 (1hr30m)
+
+**Today's Progress**: Practical Javascript course
+
+**Thoughts:** I love this course. Small bite sized units make it super easy to digest. Plus I am learning a tonne about javascript and everything is starting to click after all the project work from the previous round. I am disappointed I had a small break and have to start from day 1, but at the same time I think the break has just motivated me to work harder this time around.
+
+### Day 2: October 9, 2017 (2hr56m)
+
+**Today's Progress**: Javascript and ruby algorithms on CodeWars
+
+**Thoughts:** I spent hours working through a bunch of easy-medium algorithms to refresh my skills and solve the same solutions in two different languages. I realised I really do love ruby, it is such a beautiful and logical language to me. However, I am so glad that I have finally started to learn javascript and am getting the hang of it, because it is something that scared me for such a long time. I do feel that my javascript skills are catching up to my ruby skills, which is awesome, because its probably what I will be using when I get a job :)
+
+### Day 3: October 10, 2017 (2hr33m)
+
+**Today's Progress**: Practical Javascript course: V3, 4, 5 & 6
+
+**Thoughts:** I am addicted to this course. I just kept moving through all the versions, because each version had a whole bunch of new information that was so interesting and well taught that I just wanted to keep learning more. More javascript knowledge feels like its increasing exponentially. Yay!
+
+### Day 4: October 11, 2017 (26m)
+
+**Today's Progress**: Practical Javascript course: V7, 8, 9
+
+**Thoughts:** I'm learning new and better ways to organise code for javascript projects and object oriented design is making a lot more sense. I realised that in my past projects, I really could refactor them and make the code a lot cleaner.
+
+### Day 5: October 12, 2017 (2h47m)
+
+**Today's Progress**: Practical Javascript course: V10, 11
+
+**Thoughts:** The javascript forEach loop - I finally get it. 
+
+### Day 6: October 13, 2017 (2h17m)
+
+**Today's Progress**: Finished Practical Javascript course: V10, 11
+
+**Thoughts:** Learned a tonne about 'this', bind and apply methods and source code is starting to look a lot less foreign. 
+
+### Day 7: October 14, 2017 (37m)
+
+**Today's Progress**: Started Watch and Code Premium subscription: TodoMVC jQuery Part 1
+
+**Thoughts:** Okay this is a lot heavier than the practical javascript course. Learned how to read to source code, a thorough and effective process. Super useful information and I'm glad I spent the time to go through this, even though it was quite long and sort of unexciting.
+
+### Day 8: October 15, 2017 (4h22m)
+
+**Today's Progress**: Continued Watch and Code Premium subscription: TodoMVC jQuery Part 1
+
+**Thoughts:** Got through the rest of this section. This certainly is practical and useful information, and learning techniques for reading source code really isn't something I had thought much about before. It makes a lot of sense, particularly using the console and debugger to walk through specific functions and try to break things to understand how they work. 
+
+### Day 9: October 16, 2017 (4h25m)
+
+**Today's Progress**: Todo app: styling
+
+**Thoughts:** Started styling the todo app from the practical javascript course. This has required a refactoring of javascript code, because I want to add filter buttons and the ability to click a todo to complete it. I had so much fun doing this and it really reinforced everything I learned about javascript from the practical javascript course. Being able to extend functionality and add features to existing code feels like a pretty goddamn important skill.
+
+### Day 10: October 17, 2017 (4h19m)
+
+**Today's Progress**: A buttload of algorithms
+
+**Thoughts:** 4 and a half hours of solving problems with ruby and javascript. Things are starting to click, I'm needing to research less, and I'm solving problems I had no chance with 2 months ago. Lots of lightbulb moments. 
