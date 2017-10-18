@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 65: October 18, 2017
+
+**Today's Progress**: Portfolio
+
+**Thoughts:** Learning about CSS transitions and implementing them in my portfolio to display animated skill level bars. It's amazing how much excitement a few simple transitions adds.
+
+**Link to work:** [Portfolio](https://carlyminjoy.github.io/)
+
 ### Day 64: October 17, 2017 (4h19m)
 
 **Today's Progress**: A buttload of algorithms
