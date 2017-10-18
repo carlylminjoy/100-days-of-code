@@ -2,9 +2,9 @@
 
 ### Day 65: October 18, 2017
 
-**Today's Progress**: Portfolio
+**Today's Progress**: Portfolio (3h1m)
 
-**Thoughts:** Learning about CSS transitions and implementing them in my portfolio to display animated skill level bars. It's amazing how much excitement a few simple transitions adds.
+**Thoughts:** Learning about CSS transitions and implementing them in my portfolio to display animated skill level bars. It's amazing how much excitement a few simple transitions adds. Also, tidied and organised Sass code, and fixed small spacing issues. I'm really beginning to love how my page is looking and feel proud knowing that I built it entirely from scratch.
 
 **Link to work:** [Portfolio](https://carlyminjoy.github.io/)
 
