@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 67: October 23, 2017
+
+**Today's Progress**: Portfolio (1h 31m)
+
+**Thoughts:** Fixed white space issues that were really bothering me and also some responsive design issues, e.g. making the nav bar a better height on mobiles & increasing the container width for the footer so the text is more readable. 
+
+### Day 66: October 19, 2017
+
+**Today's Progress**: Ruby Exercises on Exercism (18m)
+
+**Thoughts:** Solved a couple of exercises using Exercism. This was actually really cool, because I learned how to run tests using minitest and revised object oriented programming with Ruby. 
+
 ### Day 65: October 18, 2017
 
 **Today's Progress**: Portfolio (3h1m)
